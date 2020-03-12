@@ -10,3 +10,5 @@
 4. 因为引入Leaflet.TextPath，所有polyline类型的图形即可继承Leaflet.TextPath方法样式设置沿线文字
 5. 继承以上三个事件中所有events，请自行查看源文档
 6. demo中的index.html简单示例
+
+![Image text](https://raw.githubusercontent.com/weizhixiang/leafelt-geoman-styleeditor/master/demo.png)
