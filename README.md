@@ -12,3 +12,5 @@
 6. demo中的index.html简单示例
 
 ![Image text](https://raw.githubusercontent.com/weizhixiang/leafelt-geoman-styleeditor/master/demo.png)
+
+[demo](https://weizhixiang.github.io/leafelt-geoman-styleeditor/index.html)
