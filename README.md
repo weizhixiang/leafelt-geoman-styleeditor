@@ -1,5 +1,5 @@
 # leafelt-geoman-styleeditor
-###集成以下三个leaflet插件
+### 集成以下三个leaflet插件
 1. https://github.com/geoman-io/leaflet-geoman
 2. https://github.com/dwilhelm89/Leaflet.StyleEditor
 3. https://github.com/makinacorpus/Leaflet.TextPath
