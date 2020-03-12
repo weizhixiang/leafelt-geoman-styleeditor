@@ -49,7 +49,9 @@
       drawSingleline: true,
       deleteLayer: true,
     });
-
+    map.on('pm:create',function(e){
+      console.log(e);
+    });
 
   </script>
 </body>
