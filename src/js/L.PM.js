@@ -36,7 +36,7 @@ import './Edit/L.PM.Edit.CircleMarker';
 import '../css/layers.css';
 import '../css/controls.css';
 
-import '../assets/Leaflet.StyleEditor.min.js'
+import '../assets/Leaflet.StyleEditor.min'
 import '../assets/Leaflet.StyleEditor.min.css'
 
 L.PM = L.PM || {

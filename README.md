@@ -13,4 +13,4 @@
 
 ![Image text](https://raw.githubusercontent.com/weizhixiang/leafelt-geoman-styleeditor/master/demo.png)
 
-[demo](https://weizhixiang.github.io/geomanstyle.html)
+[demo](https://weizhixiang.github.io/demo/geomanstyle.html)
